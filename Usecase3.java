@@ -22,7 +22,7 @@ class Bike implements Rentable {
 
 }
 
-public class UseCase3 {
+public class Usecase3 {
     public static void main(String[] args) {
         Rentable car = new Car();
         Rentable bike = new Bike();
